@@ -19,14 +19,14 @@ python flaskapp.py
 ```
 Open [localhost:5000/login](localhost:5000/login) in a browser.
 
-Login with\n
-Username: admin\n
-Password: password\n
+Login with  
+Username: admin  
+Password: password  
 
-Click the square button on the top-right corner of the map to draw polygon\n
-Calculated area size is shown on bottom-left corner\n
-Click trashcan button on the top-right corner of the map to delete polygon\n
+Click the square button on the top-right corner of the map to draw polygon  
+Calculated area size is shown on bottom-left corner  
+Click trashcan button on the top-right corner of the map to delete polygon  
 
 Reference:\n
-Flask tutorial: [https://youtu.be/MwZwr5Tvyxo](https://youtu.be/MwZwr5Tvyxo)\n
-Mapbox + Turf: [https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/](https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/)\n
+Flask tutorial: [https://youtu.be/MwZwr5Tvyxo](https://youtu.be/MwZwr5Tvyxo)  
+Mapbox + Turf: [https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/](https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/)  
