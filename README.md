@@ -17,7 +17,7 @@ pip install flask
 ```bash
 python flaskapp.py
 ```
-Open [localhost:5000/login](localhost:5000/login) in a browser.
+Open localhost:5000/login in a browser.
 
 Login with  
 Username: admin  
