@@ -17,3 +17,4 @@ pip install flask
 ```bash
 python flaskapp.py
 ```
+Open localhost:5000 from a browser.
