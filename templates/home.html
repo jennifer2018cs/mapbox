@@ -8,14 +8,12 @@
         height: 100%;
         margin: 0;
     }
-
     #map { position:absolute; top:0; bottom:0; width:100%; }
 </style>
 {% endblock %}
 
 {% block content %}
 <style>
-
 	.calculation-box {
 		height: 100px;
 		width: 200px;
@@ -34,7 +32,6 @@ p {
 	margin:0;
 	font-size: 16;
 }
-
 </style>
 
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
@@ -53,7 +50,7 @@ p {
 	var map = new mapboxgl.Map({
 		container: 'map',
 		style: 'mapbox://styles/mapbox/streets-v11',
-		center: [138.601,-34.928],
+		center: [138.601,-34.928],	// Adelaide
 		zoom: 13
 	});
 
