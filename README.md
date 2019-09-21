@@ -27,6 +27,6 @@ Click the square button on the top-right corner of the map to draw polygon
 Calculated area size is shown on bottom-left corner  
 Click trashcan button on the top-right corner of the map to delete polygon  
 
-Reference:\n
+## Reference
 Flask tutorial: [https://youtu.be/MwZwr5Tvyxo](https://youtu.be/MwZwr5Tvyxo)  
 Mapbox + Turf: [https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/](https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/)  
